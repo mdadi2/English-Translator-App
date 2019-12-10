@@ -12,6 +12,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import cz.msebera.android.httpclient.Header;
 
+
 public class MainActivity extends AppCompatActivity {
     private TextView translationTextView;
     @Override
